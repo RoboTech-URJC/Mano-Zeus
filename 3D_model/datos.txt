@@ -1,0 +1,9 @@
+CableHolderWristV5 - 46min
+LeftCableHolderWrist - 46min
+LeftRotaWrist1V4 - 5h 25min
+LeftRotaWrist2V3 - 2h 43min
+RotsWrist1V4 - 5h 25min
+RotaWrist2V3 - 2h 42min
+RotaWrist3V3 - 1h 5min
+WristGearsV5 - 1h 40min
+
