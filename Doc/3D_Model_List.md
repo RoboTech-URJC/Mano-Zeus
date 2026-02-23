@@ -63,6 +63,3 @@ Here we have a track of the 3D printed parts of the project
 - [x] [RobServoBedV6](../3D_model/Hands_arms/RobServoBedV6.stl)
 - [x] [TensionerRightV1](../3D_model/Hands_arms/TensionerRightV1.stl)
 - [x] [Servo-pulleyX5](../3D_model/Hands_arms/servo-pulleyX5.stl)
-
-# Bicep:
-
