@@ -1,9 +1,6 @@
-# Zeus' Hand
+![portada](./Doc/fig/portada_ze.png)
+# :robot: Zeus' Hand
 
-<h3 align="center">Zeus' Hand</h3>
-
-
----
 This repo contains all the necessary hardware and software for our Zeus' Hand. It also contains all the information about the current status of the project. 
 
 ## Table of Contents
@@ -23,13 +20,6 @@ The main idea behind this project is inspired on the InMoov project, but we are 
 
 If enough progress is made, the objective will be expanded to the rest of the body or new ideas linked to what has already been developed will be developed, such as the method of implementing hand movement (with visual recognition or with gloves with pressure sensors).
 
-If you want take a look to the original project:
-
-- [InMoov's project](https://inmoov.fr/).
-
-
-<img width=500px src="/Doc/fig/InMoov_project.png" alt="Generic version"></a>
-
 ## Mechanics
 
 <!--- <img width=400px src="Doc/images/Explode.png" alt="explode"></a> --->
@@ -41,11 +31,10 @@ You can find the left and right hands and arms printed and also the right bicep.
 And a list of the progress of impresion in the [3D Model List](Doc/3D_Model_List.md).
 
 
-<img width=500px src="/Doc/fig/Open_Hand.png" alt="Generic version"></a>
 
-
-<img width=500px src="/Doc/fig/Closed_Hand.png" alt="Generic version"></a>
 <!---                   FOTOS
+<img width=500px src="/Doc/fig/Open_Hand.png" alt="Generic version"></a>
+<img width=500px src="/Doc/fig/Closed_Hand.png" alt="Generic version"></a>
  <img width=500px src="images/../Doc/images/robot_generic.png" alt="Generic version"></a>
  <img width=670px src="images/../Doc/images/noah_generic_2.jpg" alt="Generic version2"></a>
 - [Assembly file Noah version](Doc/assembly_noah.md).  
