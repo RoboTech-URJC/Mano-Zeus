@@ -1,23 +1,20 @@
 ![portada](./Doc/fig/portada_ze.png)
-# :mechanical_arm: Zeus' Hand
 
-This repo contains all the necessary hardware and software for our Zeus' Hand. It also contains all the information about the current status of the project. 
+Este repositorio contiene el hardware, el software y la documentación necesarios para el proyecto **Mano de Zeus**, incluyendo información sobre su estado y progreso actuales.
 
-## Table of Contents
+---
 
-- [Table of Contents](#table-of-contents)
-- [About](#about)
-- [Mechanics](#mechanics)
-- [Software](#software)
-- [Authors](#authors)
-
-## About
+## Sobre el proyecto
 
 This project is made by the association of RoboTech from the Rey Juan Carlos University, in Madrid, Spain. Association formed mainly by students of the robotics software engineering degree, although there are also telecommunications and aerospace students.
 
 The main idea behind this project is inspired on the InMoov project, but we are only going to make a simplyfied solution of the hands and arms parts described on the original project for now.
 
 If enough progress is made, the objective will be expanded to the rest of the body or new ideas linked to what has already been developed will be developed, such as the method of implementing hand movement (with visual recognition or with gloves with pressure sensors).
+
+
+
+---
 
 ## Mechanics
 
@@ -41,6 +38,8 @@ And a list of the progress of impresion in the [3D Model List](Doc/3D_Model_List
 <img width=390px src="images/../Doc/images/robot_noah2.png" alt="Noah version2"></a>
 --->
 
+---
+
 ## Software
 
 In the software part we have developed a code that allows the movement of one of the hands at the same time. You can find it in the [Servo Move](src/ServoM)
@@ -62,6 +61,8 @@ At the bottom there are 4 SMPS modules installed. They are capable of delivering
 
 The PCB was designed with Kicad. Take a look to the [PCB section](./noah-hardware\Doc\PCB).
 --->
+
+---
 
 ## Authors
 
