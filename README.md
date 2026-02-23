@@ -1,5 +1,5 @@
 ![portada](./Doc/fig/portada_ze.png)
-# :robot: Zeus' Hand
+# :mechanical_arm: Zeus' Hand
 
 This repo contains all the necessary hardware and software for our Zeus' Hand. It also contains all the information about the current status of the project. 
 
@@ -8,7 +8,6 @@ This repo contains all the necessary hardware and software for our Zeus' Hand. I
 - [Table of Contents](#table-of-contents)
 - [About](#about)
 - [Mechanics](#mechanics)
-- [Electronics](#electronics)
 - [Software](#software)
 - [Authors](#authors)
 
@@ -48,9 +47,8 @@ In the software part we have developed a code that allows the movement of one of
 
 On the other hand, we have developed hand tracking to detect the right hand and, knowing its positions, follow it and replicate its movement. You can find it in the [Hand tracking](src/handTracking)
 
-## Electronics
-
 <!---
+## Electronics
 <img src="Doc/images/PCB_finished.png" alt="pcb_finished"></a>
 
 The main PCB is in charge of controlling all the peripherals of the robot. You can see in the pictures a all the connectors available. Several modules were provided:
@@ -67,6 +65,6 @@ The PCB was designed with Kicad. Take a look to the [PCB section](./noah-hardwar
 
 ## Authors
 
-- [InMoov Members](https://inmoov.fr/) - Idea & Initial work# Mano-Zeus
+- [InMoov Members](https://inmoov.fr/) - Idea & Initial work
 ### Members 
 
