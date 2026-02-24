@@ -23,6 +23,11 @@ El sistema de control se divide en dos partes principales:
 De esta manera, el software interpreta el movimiento y el hardware lo ejecuta físicamente.
 
 ---
-## Demo
+## Demostración
 (progreso actual 24/02/2026)
 
+<p align="center">
+  <a href="https://youtube.com/shorts/6KSZLjYA9YE?si=bSkOJxbSDhfmJuYE">
+    <img src="https://github.com/user-attachments/assets/1434d1c4-fd05-4bd6-be03-d4d676ada2ac" width="400">
+  </a>
+</p>
