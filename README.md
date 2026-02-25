@@ -14,11 +14,11 @@ El proyecto está inspirado en **[InMoov](https://inmoov.fr/hand-and-forarm/)**,
 
 ## Hardware y Software
 
-La estructura del robot está compuesta por piezas impresas en 3D, lo que hace que el proyecto sea accesible y fácilmente replicable. Los modelos y archivos necesarios para su construcción pueden encontrarse en la sección **[3D_model](https://github.com/RoboTech-URJC/Mano-Zeus/tree/main/3D_model)**.
+La estructura del robot está compuesta por piezas impresas en 3D, lo que hace que el proyecto sea accesible. Los archivos necesarios para su construcción pueden encontrarse en la sección **[3D_model](https://github.com/RoboTech-URJC/Mano-Zeus/tree/main/3D_model)**.
 
 El sistema de control se divide en dos partes principales:
-- **Control de servomotores en Arduino**: código encargado de gestionar el movimiento de los dedos, permitiendo el control individual o conjunto de la mano. **[ServoMove](src/v2/ServoM)**
-- **Seguimiento de mano con Python (OpenCV)**: usamos la cámara para seguir el movimiento de una mano real y enviar esa información al Arduino, que se encarga de mover la mano robótica para que haga lo mismo. **[Hand Tracking](src/v2/handTracking)**
+- **Control de servomotores en Arduino**: código que controla el movimiento de los dedos, permitiendo moverlos de forma individual o todos a la vez. **[ServoMove](src/v2/ServoM)**
+- **Seguimiento de mano con Python**: usamos la cámara para seguir el movimiento de una mano real y enviar esa información al Arduino, que se encarga de mover la mano robótica para que haga lo mismo. **[Hand Tracking](src/v2/handTracking)**
 
 De esta manera, el software interpreta el movimiento y el hardware lo ejecuta físicamente.
 
