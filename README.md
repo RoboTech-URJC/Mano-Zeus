@@ -8,7 +8,7 @@ Este repositorio contiene el hardware, el software y la documentación necesario
 
 Mano de Zeus es un proyecto OpenSource desarrollado por la asociación **RoboTech de la URJC**. 
 
-El proyecto está inspirado en **[InMoov](https://inmoov.fr/hand-and-forarm/)**, pero Mano de Zeus es una propuesta propia adaptada a nuestros objetivos y recursos. Así como la mano humana utiliza músculos y tendones para generar movimiento, Mano de Zeus emplea motores y hilos que replican esa misma lógica en una estructura robótica impresa en 3D.
+El proyecto está inspirado en **[InMoov](https://inmoov.fr/hand-and-forarm/)**, pero Mano de Zeus es nuestra propia versión del concepto, adaptada a lo que queremos construir y a los recursos que tenemos. Igual que la mano humana se mueve gracias a músculos y tendones, Mano de Zeus utiliza motores y hilos que imitan esa misma forma de generar movimiento en una mano robótica impresa en 3D.
 
 ---
 
@@ -18,13 +18,13 @@ La estructura del robot está compuesta por piezas impresas en 3D, lo que hace q
 
 El sistema de control se divide en dos partes principales:
 - **Control de servomotores en Arduino**: código encargado de gestionar el movimiento de los dedos, permitiendo el control individual o conjunto de la mano. **[ServoMove](src/v2/ServoM)**
-- **Seguimiento de mano con Python (OpenCV)**: sistema de visión que detecta la mano derecha mediante cámara, interpreta sus posiciones y traduce esa información en señales que posteriormente el Arduino ejecuta para replicar el movimiento en la mano robótica. **[Hand Tracking](src/v2/handTracking)**
+- **Seguimiento de mano con Python (OpenCV)**: usamos la cámara para seguir el movimiento de una mano real y enviar esa información al Arduino, que se encarga de mover la mano robótica para que haga lo mismo. **[Hand Tracking](src/v2/handTracking)**
 
 De esta manera, el software interpreta el movimiento y el hardware lo ejecuta físicamente.
 
 ---
 ## Demostración
-(progreso actual 24/02/2026)
+*Haz click en la imagen para ver nuestro avance actual* (25/02/2026)
 
 <p align="center">
   <a href="https://youtube.com/shorts/6KSZLjYA9YE?si=bSkOJxbSDhfmJuYE">
