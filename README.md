@@ -8,7 +8,7 @@ Este repositorio contiene el hardware, el software y la documentación necesario
 
 Mano de Zeus es un proyecto OpenSource desarrollado por la asociación **RoboTech de la URJC**. 
 
-El proyecto está inspirado en **[InMoov](https://inmoov.fr/hand-and-forarm/)**, pero Mano de Zeus es nuestra propia versión del concepto, adaptada a lo que queremos construir y a los recursos que tenemos. Igual que la mano humana se mueve gracias a músculos y tendones, Mano de Zeus utiliza motores y hilos que imitan esa misma forma de generar movimiento en una mano robótica impresa en 3D.
+El proyecto está inspirado en **[InMoov](https://inmoov.fr/hand-and-forarm/)**, pero Mano Zeus es una adaptación propia, ajustada a nuestros recursos y a nuestros objetivos educativos. Igual que la mano humana se mueve gracias a músculos y tendones, Mano de Zeus utiliza motores y hilos que imitan esa misma forma de generar movimiento en una mano robótica impresa en 3D.
 
 ---
 
